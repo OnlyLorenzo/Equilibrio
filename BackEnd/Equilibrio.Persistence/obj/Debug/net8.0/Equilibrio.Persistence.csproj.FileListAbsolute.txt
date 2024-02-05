@@ -1,0 +1,12 @@
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\bin\Debug\net8.0\Equilibrio.Persistence.deps.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\bin\Debug\net8.0\Equilibrio.Persistence.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\bin\Debug\net8.0\Equilibrio.Persistence.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.AssemblyInfoInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.AssemblyInfo.cs
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.sourcelink.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\refint\Equilibrio.Persistence.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\Equilibrio.Persistence.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Persistence\obj\Debug\net8.0\ref\Equilibrio.Persistence.dll

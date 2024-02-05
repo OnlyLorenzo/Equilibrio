@@ -1,0 +1,12 @@
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\bin\Debug\net8.0\Equilibrio.BusinessLogic.deps.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\bin\Debug\net8.0\Equilibrio.BusinessLogic.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\bin\Debug\net8.0\Equilibrio.BusinessLogic.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.AssemblyInfo.cs
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.sourcelink.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\refint\Equilibrio.BusinessLogic.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\Equilibrio.BusinessLogic.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.BusinessLogic\obj\Debug\net8.0\ref\Equilibrio.BusinessLogic.dll

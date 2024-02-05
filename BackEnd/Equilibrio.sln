@@ -3,21 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio", "Equilibrio\Equilibrio.csproj", "{91C95AF7-5656-4F6F-A181-06C283F631B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.BusinessLogic", "Equilibrio.BusinessLogic\Equilibrio.BusinessLogic.csproj", "{5E1343FB-9EC3-4A6D-B975-511E97B0A5DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.BusinessLogic", "Equilibrio.BusinessLogic\Equilibrio.BusinessLogic.csproj", "{5E1343FB-9EC3-4A6D-B975-511E97B0A5DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.BusinessLogic.Library", "Equilibrio.BusinessLogic.Library\Equilibrio.BusinessLogic.Library.csproj", "{A43EAEFA-9089-420E-A4EC-2CB2121F97D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.BusinessLogic.Library", "Equilibrio.BusinessLogic.Library\Equilibrio.BusinessLogic.Library.csproj", "{A43EAEFA-9089-420E-A4EC-2CB2121F97D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Core", "Equilibrio.Core\Equilibrio.Core.csproj", "{1F37AF8B-6231-4940-91C9-6A5FB70F6374}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.Core", "Equilibrio.Core\Equilibrio.Core.csproj", "{1F37AF8B-6231-4940-91C9-6A5FB70F6374}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Model", "Equilibrio.Model\Equilibrio.Model.csproj", "{1E3FB3C5-8235-4546-A8B9-25307634642B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.Model", "Equilibrio.Model\Equilibrio.Model.csproj", "{1E3FB3C5-8235-4546-A8B9-25307634642B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Persistence", "Equilibrio.Persistence\Equilibrio.Persistence.csproj", "{A102E5F0-3DFF-45BD-B889-69722AF14948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.Persistence", "Equilibrio.Persistence\Equilibrio.Persistence.csproj", "{A102E5F0-3DFF-45BD-B889-69722AF14948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Services", "Equilibrio.Services\Equilibrio.Services.csproj", "{B06F03FA-C568-4182-BD33-250A4A17685C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.Services", "Equilibrio.Services\Equilibrio.Services.csproj", "{B06F03FA-C568-4182-BD33-250A4A17685C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio.Test", "Equilibrio.Test\Equilibrio.Test.csproj", "{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Test", "Equilibrio.Test\Equilibrio.Test.csproj", "{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{91C95AF7-5656-4F6F-A181-06C283F631B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{91C95AF7-5656-4F6F-A181-06C283F631B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{91C95AF7-5656-4F6F-A181-06C283F631B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{91C95AF7-5656-4F6F-A181-06C283F631B1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5E1343FB-9EC3-4A6D-B975-511E97B0A5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E1343FB-9EC3-4A6D-B975-511E97B0A5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E1343FB-9EC3-4A6D-B975-511E97B0A5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,0 +1,12 @@
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\bin\Debug\net8.0\Equilibrio.Model.deps.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\bin\Debug\net8.0\Equilibrio.Model.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\bin\Debug\net8.0\Equilibrio.Model.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.AssemblyInfoInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.AssemblyInfo.cs
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.csproj.CoreCompileInputs.cache
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.sourcelink.json
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\refint\Equilibrio.Model.dll
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\Equilibrio.Model.pdb
+C:\Users\PCZÃODOLORE\Documents\Development\Equilibrio\BackEnd\Equilibrio.Model\obj\Debug\net8.0\ref\Equilibrio.Model.dll
