@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Equilibrio.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9862cf620a15254ba1888695e219eb9b5260cd0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04497252434f6e9ef4082dd1c4b0a0653c08b2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Equilibrio.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Equilibrio.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

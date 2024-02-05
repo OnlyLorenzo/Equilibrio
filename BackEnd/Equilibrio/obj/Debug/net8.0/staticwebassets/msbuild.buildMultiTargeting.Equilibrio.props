@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Equilibrio.props" />
+</Project>

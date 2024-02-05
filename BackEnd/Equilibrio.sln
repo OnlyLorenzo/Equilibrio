@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Services", "Equi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equilibrio.Test", "Equilibrio.Test\Equilibrio.Test.csproj", "{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equilibrio", "Equilibrio\Equilibrio.csproj", "{0B474093-8EA9-46B2-83DE-B395AD6CC889}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49FE15D5-4EB0-474A-A7D1-ECDA13B611C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B474093-8EA9-46B2-83DE-B395AD6CC889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B474093-8EA9-46B2-83DE-B395AD6CC889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B474093-8EA9-46B2-83DE-B395AD6CC889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B474093-8EA9-46B2-83DE-B395AD6CC889}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
